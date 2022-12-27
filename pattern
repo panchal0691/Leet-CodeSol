@@ -1,0 +1,24 @@
+#include<stdio.h>
+void main()
+{
+
+int i,j,k;
+for(i='A';i<'E';i++)
+{
+
+
+
+  printf("%c\n",i);
+
+     for(j=i+1;j<i+1;j++)
+    {
+
+
+
+        printf("%c",j);
+    }
+
+}
+
+}
+
